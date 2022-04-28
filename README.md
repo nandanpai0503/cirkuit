@@ -10,4 +10,4 @@ This landing page is built on [shorthand css framework](https://github.com/short
 
 ## LICENSE
 
-The theme is available under the MIT and Apache License.
+The Page is available under the MIT and Apache License.
